@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  background:
+    radial-gradient(circle at 20% 20%, rgba(255, 255, 255, 0.35), transparent 25%),
+    radial-gradient(circle at 80% 75%, rgba(255, 255, 255, 0.22), transparent 30%),
+    linear-gradient(135deg, #0c3558 0%, #1d063d 50%, #3c0707 100%);
+  background-attachment: fixed;
+  font-family: Arial, sans-serif;
+}
+
+
+.container-fluid  {
+  background-color:#4169E1 ;
+  color: white;
+}
+
+.container-fluid {
+    background-image:https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/a9259b22-04aa-4cb7-900a-c12edeacb745/DSC06837.jpg ;
+}
